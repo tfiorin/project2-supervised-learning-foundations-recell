@@ -33,7 +33,7 @@ This project is part of the **AI & Machine Learning Series**, focusing on **Supe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tfiorin/AI-ML-Series.git
+   git clone https://github.com/tfiorin/supervised-learning-recell.git
    pip install -r requirements.txt
    jupyter notebook supervised-learning-recell.ipynb
 
