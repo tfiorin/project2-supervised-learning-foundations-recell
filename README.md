@@ -1,4 +1,4 @@
-# AI & Machine Learning Series: Supervised Learning - ReCell
+## AI & Machine Learning Series: Supervised Learning - ReCell
 
 This project is part of the **AI & Machine Learning Series**, focusing on **Supervised Learning** techniques applied to **ReCell**, a dataset related to battery recycling. The notebook walks through data preprocessing, model training, evaluation, and insights.
 
